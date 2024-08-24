@@ -1,4 +1,4 @@
-# Virtuoso-GameFoundation
+# GameFoundation
 Virtuoso / GameFoundation
 
 Grabbag of foundational data structures and algorithms commonly used in games, for [Virtuoso Engine](https://github.com/VirtuosoChris/Virtuoso-Engine/).
